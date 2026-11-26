@@ -1,0 +1,9 @@
+TICKETING|1
+ACARA|EVT-0001|Seminar Web3 & Blockchain|Seminar|Aula FMIPA|2
+ACARA|EVT-0002|Lokakarya Dasar Python|Lokakarya|Lab Komputer 1|30
+ACARA|EVT-0003|Lomba Logika Informatika|Lomba|Ruang FMIPA 3|45
+ACARA|EVT-0004|Seminar Karier Teknologi|Seminar|Aula FMIPA|80
+PESERTA|EVT-0004|00010001|Nadia Putri|Sistem Informasi
+PESERTA|EVT-0004|00010002|Raka Aditya|Ilmu Komputer
+ACARA|EVT-0005|Lokakarya Desain Antarmuka|Lokakarya|Lab Komputer 2|24
+ACARA|EVT-0006|Temu Komunitas Data|Diskusi|Ruang FMIPA 2|20
